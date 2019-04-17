@@ -1,0 +1,654 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>HEATHER E. GAYA</origin>
+        <origin>CLINT T. MOORE</origin>
+        <pubdate>20190226</pubdate>
+        <title>Burrow, Transect and Vegetation Measurement Locations for LTDS survey of Gopher Tortoise in Baker County, GA 2018</title>
+        <geoform>spreadsheet</geoform>
+        <onlink>https://github.com/heathergaya/Vegetation_LTDS</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>HEATHER E. GAYA</origin>
+            <origin>CLINTON T. MOORE</origin>
+            <pubdate>20190226</pubdate>
+            <title> FOR VEGETATION VARIATION IN GOPHER TORTOISE SURVEYS</title>
+            <geoform>spreadsheet</geoform>
+            <onlink>https://github.com/heathergaya/Vegetation_LTDS</onlink>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This dataset contains locations of gopher tortoise burrows observed during line-transect distance sampling, information on transect length, and vegetation obstruction measurements. The burrow and vegetation spreadsheets contain observations at 4 plots, surveyed both before and after a prescribed fire. The same transects were used for both surveys.</abstract>
+      <purpose>Data were collected to evaluate the influence of vegetation on detection of gopher tortoise burrows during line-transect distance sampling. Data may be useful for demonstrating detection difficulties of smaller burrows when vegetation is present. LTDS surveys were performed with 2 observers and may not be representative of LTDS surveys at other locations or with different observers. </purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20180316</begdate>
+          <enddate>20180624</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>observed</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <descgeog>Newton, GA</descgeog>
+      <bounding>
+        <westbc>-180.0000</westbc>
+        <eastbc>180.0000</eastbc>
+        <northbc>90.0000</northbc>
+        <southbc>-90.0000</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>biota</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Georgia</placekey>
+      </place>
+    </keywords>
+    <taxonomy>
+      <keywtax>
+        <taxonkt>None</taxonkt>
+        <taxonkey>Gopherus polyphemus</taxonkey>
+      </keywtax>
+      <taxoncl>
+        <taxonrn>Kingdom</taxonrn>
+        <taxonrv>Animalia</taxonrv>
+        <taxoncl>
+          <taxonrn>Subkingdom</taxonrn>
+          <taxonrv>Bilateria</taxonrv>
+          <taxoncl>
+            <taxonrn>Infrakingdom</taxonrn>
+            <taxonrv>Deuterostomia</taxonrv>
+            <taxoncl>
+              <taxonrn>Phylum</taxonrn>
+              <taxonrv>Chordata</taxonrv>
+              <taxoncl>
+                <taxonrn>Subphylum</taxonrn>
+                <taxonrv>Vertebrata</taxonrv>
+                <taxoncl>
+                  <taxonrn>Infraphylum</taxonrn>
+                  <taxonrv>Gnathostomata</taxonrv>
+                  <taxoncl>
+                    <taxonrn>Superclass</taxonrn>
+                    <taxonrv>Tetrapoda</taxonrv>
+                    <taxoncl>
+                      <taxonrn>Class</taxonrn>
+                      <taxonrv>Reptilia</taxonrv>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Testudines</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Suborder</taxonrn>
+                          <taxonrv>Cryptodira</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Superfamily</taxonrn>
+                            <taxonrv>Testudinoidea</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Family</taxonrn>
+                              <taxonrv>Testudinidae</taxonrv>
+                              <taxoncl>
+                                <taxonrn>Genus</taxonrn>
+                                <taxonrv>Gopherus</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Species</taxonrn>
+                                  <taxonrv>Gopherus polyphemus</taxonrv>
+                                  <common>TSN: 173858</common>
+                                </taxoncl>
+                              </taxoncl>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                    </taxoncl>
+                  </taxoncl>
+                </taxoncl>
+              </taxoncl>
+            </taxoncl>
+          </taxoncl>
+        </taxoncl>
+      </taxoncl>
+    </taxonomy>
+    <accconst>None.  Please see 'Distribution Info' for details.</accconst>
+    <useconst>None.  Users are advised to read the data set's metadata thoroughly to understand appropriate use and data limitations.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Heather Gaya</cntper>
+        </cntperp>
+        <cntpos>Graduate Student</cntpos>
+        <cntaddr>
+          <addrtype>Mailing and Physical</addrtype>
+          <address>180 E Green St</address>
+          <city>Athens</city>
+          <state>GA</state>
+          <postal>30602</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>5097303869</cntvoice>
+        <cntemail>heather.gaya@uga.edu</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>We thank R. I. Belcher, E. A. Laske, T. J. Prebyl and J. M. Fox for field assistance. This work was funded through U.S. Department of Agriculture Natural Resources Conservation Service awards 68-7482-16-544 and 68-7482-16-545. Additional funding was provided by the Joseph W. Jones Ecological Research Center. </datacred>
+    <native>The data is named GopherTortoise_BurnStudy_Burrows_2018.csv,  GopherTortoise_BurnStudy_Transects_2018.csv, GopherTortoise_BurnStudy_Veg_2018.csv. It was produced in Microsoft Excel 2016 on an Intel Core 2.70 GHz computer running Windows 10. The data are provided in comma-separated value (.csv) format. Size: 104 KB</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Data were not tested for accuracy. GPS unit had 2-4m accuracy.</attraccr>
+    </attracc>
+    <logic>All the data match up properly. There are no known errors in this dataset</logic>
+    <complete>The dataset only represents observations within the date range provided. It is likely not valid for inferences before or after those dates. </complete>
+    <lineage>
+      <procstep>
+        <procdesc>Following conventional gopher tortoise LTDS survey guidelines (Smith et al. 2016), we surveyed transects using 3 observers. The central observer navigated the transect using a Trimble Juno T41 (Trimble Navigation, Ltd., Sunnyvale, CA) and searched for burrows on and near the transect. Additional observers searched for burrows on either side of the transect. We spaced transects spaced 50 m apart to maximize survey coverage of the site but also limit the number of burrows that might be observed from adjacent transects (Smith and Howze 2016). At each burrow, we obtained a GPS location, measured burrow width at 50 cm inside the opening (Martin and Layne 1987), and determined occupancy status of non-collapsed burrows. We determined occupancy by scoping each burrow with a burrow camera and classifying the burrow as either (1) occupied (tortoise observed), (2) unoccupied or (3) unknown occupancy (Smith et al. 2016). In addition to the conventional protocol, we recorded vegetation measurements at regular intervals (15 m, and at transect start and end points) along the transect line to estimate vegetation obstruction. We measured vegetation obstruction by placing a meter stick ~5 m off the transect and estimating the minimum height (0 to 1m, 5 cm increments) where all markings were ≥50% obscured. In ArcGIS, we used inverse distance weighted interpolation of the point measurements to create a smoothed layer of estimated vegetation density across the sampled landscape and extracted an estimate of vegetation obstruction (range 0-1 m) at the location of each detected burrow.</procdesc>
+        <procdate>20190226</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>GopherTortoise_BurnStudy_Burrows_2018</enttypl>
+        <enttypd>Gopher Tortoise burrow observations</enttypd>
+        <enttypds>Producer defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>ObjectNum</attrlabl>
+        <attrdef>The row number of the data. Note: a burrow that was seen both pre- and post-burn will be recorded twice, with two different object numbers</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>396</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>diameter</attrlabl>
+        <attrdef>Diameter of burrow (to the nearest cm) at 50 cm deep. "0" refers to a collapsed burrow. </attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>62</rdommax>
+            <attrunit>cm</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+  <attrlabl>scoped</attrlabl><attrdef>Was the burrow checked for occupancy with a burrow camera?</attrdef><attrdefs>Producer defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>y</edomv>
+      <edomvd>yes</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>n</edomv>
+      <edomvd>no</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+  <attrlabl>occ</attrlabl><attrdef>Was the burrow occupied with a tortoise?</attrdef><attrdefs>Producer defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>y</edomv>
+      <edomvd>yes</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>u</edomv>
+      <edomvd>unknown/unsuccessful</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>n</edomv>
+      <edomvd>no</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>0</edomv>
+      <edomvd>No</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>1</edomv>
+      <edomvd>yes</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>2</edomv>
+      <edomvd>Unknown</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+        <attrlabl>DDLat</attrlabl>
+        <attrdef>Latitude in decimal degrees</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>31.255064</rdommin>
+            <rdommax>31.298678</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DDLong</attrlabl>
+        <attrdef>Longitude in decimal degrees</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-84.468835</rdommin>
+            <rdommax>-84.378214</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Time</attrlabl>
+        <attrdef>Time of day burrow was recorded</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>Hours:Mins:Sec</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Northing</attrlabl>
+        <attrdef>UTM 7 N Northing</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>3462797.086</rdommin>
+            <rdommax>3467860.556</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Easting</attrlabl>
+        <attrdef>UTM 7 N Easting</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>169665.868</rdommin>
+            <rdommax>178287.459</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NEAR_DIST</attrlabl>
+        <attrdef>Distance to nearest transect in m</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.205102634</rdommin>
+            <rdommax>60.80690264</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+  <attrlabl>Site</attrlabl><attrdef>Plot being surveyed</attrdef><attrdefs>Producer defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>1yr_rough</edomv>
+      <edomvd>1 year rough</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>2yr_rough</edomv>
+      <edomvd>2 year rough</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Joseph_Road</edomv>
+      <edomvd>A different 1 year rough</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Fourth_July_Block</edomv>
+      <edomvd>Another 2 year rough</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>1_yr_rough</edomv>
+      <edomvd>1 year rough</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>2_yr_rough</edomv>
+      <edomvd>2 year rough</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+        <attrlabl>Horz_Veg</attrlabl>
+        <attrdef>Vegetation obstruction measured 5m off transect. Measured in cm (range 0-100)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>51.8201</rdommax>
+            <attrunit>cm</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+  <attrlabl>Burn</attrlabl><attrdef>Was the burrow observed during a pre or post-burn survey? Note that burrows may be recorded twice, once in each section</attrdef><attrdefs>Producer defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>pre-burn</edomv>
+      <edomvd>pre-burn survey</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>post-burn</edomv>
+      <edomvd>post-burn survey</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>GopherTortoise_BurnStudy_Transects_2018.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing Transect data.</enttypd>
+        <enttypds>Producer defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Transect unique #</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>80</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape_Leng</attrlabl>
+        <attrdef>Length of transect in meters</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>15.04536571</rdommin>
+            <rdommax>670.770925</rdommax>
+            <attrunit>m</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+  <attrlabl>Site</attrlabl><attrdef>Location of transect </attrdef><attrdefs>Producer defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>Fourth_July_Block</edomv>
+      <edomvd>a 2 year rough</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>2yr_rough</edomv>
+      <edomvd>a 2 year rough</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>1yr_rough</edomv>
+      <edomvd>a 1 year rough</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Joseph_Road</edomv>
+      <edomvd>a 1 year rough</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>GopherTortoise_BurnStudy_Veg_2018.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing vegetation obstruction data.</enttypd>
+        <enttypds>Producer defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Vegetation point unique #</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>693</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+  <attrlabl>wiregrass</attrlabl><attrdef>Was wiregrass (Aristida stricta) present at the location of the veg point?</attrdef><attrdefs>Producer defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>n</edomv>
+      <edomvd>no</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>y</edomv>
+      <edomvd>yes</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+        <attrlabl>GPSTime</attrlabl>
+        <attrdef>Time the point was taken</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>Hours:Mins:Seconds</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DDLat</attrlabl>
+        <attrdef>latitude in decimal degrees</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>31.254934999999996</rdommin>
+            <rdommax>31.299274</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DDLong</attrlabl>
+        <attrdef>longitude in decimal degrees</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-84.469189</rdommin>
+            <rdommax>-84.378005</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Northing</attrlabl>
+        <attrdef>UTM 7N Northing</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>3462782.1789999995</rdommin>
+            <rdommax>3467925.8619999997</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Easting</attrlabl>
+        <attrdef>UTM 7N Easting</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>169632.02300000002</rdommin>
+            <rdommax>178306.93399999998</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Horiz_Veg</attrlabl>
+        <attrdef>Vegetation obstruction measured at 5m off the transect to the nearest 5cm (range 0-100)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>100.0</rdommax>
+            <attrunit>cm</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+  <attrlabl>Site</attrlabl><attrdef>Plot where vegetation was measured</attrdef><attrdefs>Producer defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>Joseph_Road</edomv>
+      <edomvd>a 2 year rough</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>2yr_rough</edomv>
+      <edomvd>a different 2 year rough</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>1yr_rough</edomv>
+      <edomvd>a 1 year rough</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Fourth_of_July_Block</edomv>
+      <edomvd>a 2 year rough</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+  <attrlabl>Burn</attrlabl><attrdef>Was the vegetation measurement taken before or after prescribed fire came through?</attrdef><attrdefs>Producer defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>Pre-Burn</edomv>
+      <edomvd>pre-burn</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Post-Burn</edomv>
+      <edomvd>post-burning</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>Clinton Moore</cntper>
+          <cntorg>U.S. Geological Survey, ECOSYSTEMS</cntorg>
+        </cntperp>
+        <cntpos>Assistant Unit Leader-Wildife</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>150 University CT, Univ of GA</address>
+          <city>Athens</city>
+          <state>GA</state>
+          <postal>30602</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>706-542-1166</cntvoice>
+        <cntfax>706-542-8356</cntfax>
+        <cntemail>cmoore@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Digital Data</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://github.com/heathergaya/Vegetation_LTDS</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20190226</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Heather Gaya</cntper>
+        </cntperp>
+        <cntpos>Graduate Researcher</cntpos>
+        <cntaddr>
+          <addrtype>Mailing and Physical</addrtype>
+          <address>180 E Green St</address>
+          <address>Warnell School of Forestry and Natural Resources</address>
+          <city>Athens</city>
+          <state>GA</state>
+          <postal>30602</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>5097303869</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Biological Data Profile of the Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001.1-1999</metstdv>
+  </metainfo>
+</metadata>
