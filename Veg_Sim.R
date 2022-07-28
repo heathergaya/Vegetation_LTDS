@@ -109,20 +109,15 @@ model
   psi~ dunif(0,1)			#exists or not		
   
   
-  Occ <- sum(wo)/(nind+nz)
+  Occ <- sum(ow)/(nind+nz) #proportion occupied of all indiviudals (real and not)
   N <- sum(w)	
   D <- N/(2*L*Bx)
-  Nt <- N*Occ
+  Nt <- sum(ow) #all occupied burrows
   Dt <- Nt/(2*L*Bx)	#tort density
-
-  N <- sum(w)		
-	D <- N/(2*L*Bx)			#burrow density
-	Nt <- sum(wo)			 
-	Dt <- Nt/(2*L*Bx)			#tort density
   
-  juvi1 <- sum(woz < 13)/Nt  
-  juvi2 <-  (sum(woz < 21)- sum(woz <13))/Nt
-  juvi3 <- sum(woz > 21)/Nt
+  juvi1 <- sum(wo*z < 13)/Nt  
+  juvi2 <-  (sum(wo*z < 21)- sum(wo*z <13))/Nt
+  juvi3 <- sum(wo*z > 21)/Nt
 }
 "
 
